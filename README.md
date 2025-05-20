@@ -15,7 +15,8 @@ TEST INCLUDED:
 
 -Should show error when using only password to login
 
-
+PRE STEPS:
+⚠️  ⚠️  Update the .env with valid credentials before running the tests ⚠️ ⚠️ 
 
 HOW TO RUN IT
 
